@@ -1,4 +1,4 @@
-#MVP - Checkpoint1
+#MVP - Checkpoint1 Ising model, Magnet at ultra low temperatures
 import numpy as np
 import math
 import matplotlib
